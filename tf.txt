@@ -1,3 +1,4 @@
 text file
 all lines removed
 line1 inserted
+line2 inserted

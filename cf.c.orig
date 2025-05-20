@@ -6,7 +6,9 @@ int main()
 	scanf("%d %d", &a, &b);
 <<<<<<< HEAD
 	printf("%d, %d", a, b);
-=======
 	printf("%d", a + b);
->>>>>>> master
+=======
+	printf("%d\n", a + b);
+	printf("%d\n", a - b);
+>>>>>>> B1
 }
