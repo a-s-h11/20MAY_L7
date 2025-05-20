@@ -1,0 +1,2 @@
+text file
+line1 inserted
