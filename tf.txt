@@ -2,7 +2,5 @@ text file
 all lines removed
 line1 inserted
 line2 inserted
-<<<<<<< HEAD
-=======
 line3 inserted
->>>>>>> B2
+line4 inserted

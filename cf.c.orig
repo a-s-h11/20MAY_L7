@@ -5,10 +5,17 @@ int main()
 	printf("enter 2 numbers: ");
 	scanf("%d %d", &a, &b);
 <<<<<<< HEAD
+<<<<<<< HEAD
 	printf("%d, %d", a, b);
 	printf("%d", a + b);
-=======
 	printf("%d\n", a + b);
 	printf("%d\n", a - b);
->>>>>>> B1
+=======
+	printf("%d\n", a + b);
+	printf("%d\n", a * b);
+>>>>>>> B2
+=======
+	printf("%d\n", a + b);
+	printf("%d\n", a / b); 
+>>>>>>> B3
 }
