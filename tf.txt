@@ -1,2 +1,4 @@
 text file
 line1 inserted
+line2 inserted
+line3 inserted
