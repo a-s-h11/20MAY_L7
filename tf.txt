@@ -1,2 +1,2 @@
 text file
-line1 inserted
+all lines removed
