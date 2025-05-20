@@ -1,3 +1,7 @@
 text file
+<<<<<<< HEAD
 all lines removed
+=======
 line1 inserted
+line2
+>>>>>>> master
